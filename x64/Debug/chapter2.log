@@ -1,0 +1,21 @@
+﻿  main.cpp
+  problem1.cpp
+  problem16.cpp
+  problem2.cpp
+  problem3.cpp
+  problem4.cpp
+C:\Users\USER\source\repos\chapter2\chapter2\problem4.cpp(21,30): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\source\repos\chapter2\chapter2\problem4.cpp(23,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+problem9.obj : warning LNK4099: '' PDB를 'problem9.obj' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+problem8.obj : warning LNK4099: '' PDB를 'problem8.obj' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+problem7.obj : warning LNK4099: '' PDB를 'problem7.obj' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+problem6.obj : warning LNK4099: '' PDB를 'problem6.obj' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+problem5.obj : warning LNK4099: '' PDB를 'problem5.obj' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+problem15.obj : warning LNK4099: '' PDB를 'problem15.obj' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+problem14.obj : warning LNK4099: '' PDB를 'problem14.obj' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+problem13.obj : warning LNK4099: '' PDB를 'problem13.obj' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+problem12.obj : warning LNK4099: '' PDB를 'problem12.obj' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+problem11.obj : warning LNK4099: '' PDB를 'problem11.obj' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+problem10.obj : warning LNK4099: '' PDB를 'problem10.obj' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  chapter2.vcxproj -> C:\Users\USER\source\repos\chapter2\x64\Debug\chapter2.exe
