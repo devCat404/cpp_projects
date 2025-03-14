@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\chapter2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem2.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem2.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem2.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem2.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5235D125-BAA7-45CA-A1DA-C071DE7E2E63}|chapter2\\chapter2.vcxproj|solutionrelative:chapter2\\problem5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "problem16.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem16.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem16.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem16.cpp",
+              "RelativeToolTip": "chapter2\\problem16.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T14:51:03.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "problem2.1.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem2.1.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem2.1.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem2.1.cpp",
+              "RelativeToolTip": "chapter2\\problem2.1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T12:19:45.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main2.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\main2.cpp",
+              "RelativeDocumentMoniker": "chapter2\\main2.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\main2.cpp",
+              "RelativeToolTip": "chapter2\\main2.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T12:06:22.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem2.3.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem2.3.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem2.3.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem2.3.cpp",
+              "RelativeToolTip": "chapter2\\problem2.3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T12:34:55.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "problem15.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem15.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem15.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem15.cpp",
+              "RelativeToolTip": "chapter2\\problem15.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T14:40:00.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "problem2.2.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem2.2.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem2.2.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem2.2.cpp",
+              "RelativeToolTip": "chapter2\\problem2.2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T12:31:16.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "problem2.4.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem2.4.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem2.4.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem2.4.cpp",
+              "RelativeToolTip": "chapter2\\problem2.4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T12:37:54.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "problem8.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem8.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem8.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem8.cpp",
+              "RelativeToolTip": "chapter2\\problem8.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T13:16:18.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "problem12.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem12.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem12.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem12.cpp",
+              "RelativeToolTip": "chapter2\\problem12.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T13:54:13.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "problem11.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem11.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem11.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem11.cpp",
+              "RelativeToolTip": "chapter2\\problem11.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T13:51:24.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "problem10.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem10.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem10.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem10.cpp",
+              "RelativeToolTip": "chapter2\\problem10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T13:46:49.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "problem9.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem9.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem9.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem9.cpp",
+              "RelativeToolTip": "chapter2\\problem9.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T13:39:46.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "problem14.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem14.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem14.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem14.cpp",
+              "RelativeToolTip": "chapter2\\problem14.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T14:04:46.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "problem13.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem13.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem13.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem13.cpp",
+              "RelativeToolTip": "chapter2\\problem13.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T13:57:20.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "problem7.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem7.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem7.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem7.cpp",
+              "RelativeToolTip": "chapter2\\problem7.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T12:57:15.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "problem5.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem5.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem5.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem5.cpp",
+              "RelativeToolTip": "chapter2\\problem5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T12:42:58.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "problem6.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem6.cpp",
+              "RelativeDocumentMoniker": "chapter2\\problem6.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\chapter2\\chapter2\\problem6.cpp",
+              "RelativeToolTip": "chapter2\\problem6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T12:49:49.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
