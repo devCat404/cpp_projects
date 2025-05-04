@@ -128,6 +128,22 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main7.cpp" />
+    <ClCompile Include="problem.7.1.cpp" />
+    <ClCompile Include="problem.7.10.cpp" />
+    <ClCompile Include="problem.7.11.cpp" />
+    <ClCompile Include="problem.7.12.cpp" />
+    <ClCompile Include="problem.7.2.cpp" />
+    <ClCompile Include="problem.7.3.cpp" />
+    <ClCompile Include="problem.7.4.cpp" />
+    <ClCompile Include="problem.7.5.cpp" />
+    <ClCompile Include="problem.7.6.cpp" />
+    <ClCompile Include="problem.7.7.cpp" />
+    <ClCompile Include="problem.7.8.cpp" />
+    <ClCompile Include="problem.7.9.cpp" />
+    <ClCompile Include="problem7.1.2.cpp" />
+    <ClCompile Include="problem7.5.2.cpp" />
+    <ClCompile Include="problem7.6.2.cpp" />
+    <ClCompile Include="problem7.7.2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
