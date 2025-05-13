@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\main8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|solutionrelative:main8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|solutionrelative:problem.8.9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|solutionrelative:problem.8.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|solutionrelative:problem.8.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|solutionrelative:problem.8.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem8.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|solutionrelative:problem8.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|solutionrelative:problem.8.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|solutionrelative:problem.8.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|solutionrelative:problem.8.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFDB64C-DD20-4BE9-BFF0-8BCBD3CE79E1}|chapter8.vcxproj|solutionrelative:problem.8.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "problem.8.8.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.8.cpp",
+              "RelativeDocumentMoniker": "problem.8.8.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.8.cpp",
+              "RelativeToolTip": "problem.8.8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T18:34:29.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "problem.8.7.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.7.cpp",
+              "RelativeDocumentMoniker": "problem.8.7.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.7.cpp",
+              "RelativeToolTip": "problem.8.7.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T18:15:15.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "problem.8.9.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.9.cpp",
+              "RelativeDocumentMoniker": "problem.8.9.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.9.cpp",
+              "RelativeToolTip": "problem.8.9.cpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T18:13:26.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "problem.8.6.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.6.cpp",
+              "RelativeDocumentMoniker": "problem.8.6.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.6.cpp",
+              "RelativeToolTip": "problem.8.6.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwDsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T18:01:20.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "problem.8.5.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.5.cpp",
+              "RelativeDocumentMoniker": "problem.8.5.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.5.cpp",
+              "RelativeToolTip": "problem.8.5.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T17:13:30.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "problem.8.4.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.4.cpp",
+              "RelativeDocumentMoniker": "problem.8.4.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.4.cpp",
+              "RelativeToolTip": "problem.8.4.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T17:10:06.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "problem.8.3.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.3.cpp",
+              "RelativeDocumentMoniker": "problem.8.3.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.3.cpp",
+              "RelativeToolTip": "problem.8.3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T14:56:48.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "problem.8.2.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.2.cpp",
+              "RelativeDocumentMoniker": "problem.8.2.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem.8.2.cpp",
+              "RelativeToolTip": "problem.8.2.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T04:46:06.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main8.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\main8.cpp",
+              "RelativeDocumentMoniker": "main8.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\main8.cpp",
+              "RelativeToolTip": "main8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T04:37:29.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "problem8.1.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem8.1.cpp",
+              "RelativeDocumentMoniker": "problem8.1.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cpp-problems\\chapter8\\chapter8\\problem8.1.cpp",
+              "RelativeToolTip": "problem8.1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T04:37:10.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
