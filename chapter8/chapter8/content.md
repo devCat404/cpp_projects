@@ -7,20 +7,36 @@
 * 기존 클래스를 기반으로 새로운 클래스를 정의
 * `public`, `protected`, `private` 상속 방식에 따라 접근 범위가 달라짐
 * **자식 클래스는 부모 클래스의 멤버를 상속받지만, 접근 가능 여부는 지정자에 따라 다름**
+* **접근 지정자 자체의 의미와 상속 방식의 조합도 중요**
 
-| 접근 지정자      | 자식 클래스에서의 접근 | 외부 객체에서의 접근 |
-| ----------- | ------------ | ----------- |
-| `public`    | ✅ 접근 가능      | ✅ 접근 가능     |
-| `protected` | ✅ 접근 가능      | ❌ 접근 불가     |
-| `private`   | ❌ 접근 불가      | ❌ 접근 불가     |
+| 멤버 접근 지정자   | `public` 상속 시 자식 접근 | `protected` 상속 시 자식 접근 | `private` 상속 시 자식 접근 |
+| ----------- | ------------------- | ---------------------- | -------------------- |
+| `public`    | ✅ public            | ✅ protected            | ❌ 불가                 |
+| `protected` | ✅ protected         | ✅ protected            | ❌ 불가                 |
+| `private`   | ❌ 불가                | ❌ 불가                   | ❌ 불가                 |
+
+| 멤버 접근 지정자   | 외부 객체 접근 가능 여부 |
+| ----------- | -------------- |
+| `public`    | ✅ 가능           |
+| `protected` | ❌ 불가           |
+| `private`   | ❌ 불가           |
 
 ```cpp
 class Parent {
 public:
-    void show() { cout << "Parent"; }
+    int pub;
+protected:
+    int prot;
+private:
+    int priv;
 };
+
 class Child : public Parent {
-    // Parent의 public 멤버 접근 가능
+    void access() {
+        pub = 1;   // ✅ 가능
+        prot = 2;  // ✅ 가능
+        // priv = 3; // ❌ 오류: private 멤버 접근 불가
+    }
 };
 ```
 
